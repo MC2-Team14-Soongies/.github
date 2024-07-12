@@ -1,6 +1,6 @@
-# 🐵 MC2-Team14-Soongies
+# 🐵 MC2-Team14-Soongeez
 
-### 🐒 About Soongies
+### 🐒 About Soongeez
 > 📅 프로젝트 기간: 2023.04.26 - 2023.05.31
 
 <details>
